@@ -68,21 +68,21 @@
 	</dict>
 	<dict>
 		<key>answer</key>
-		<string>曹颖</string>
+		<string>阿甘正传</string>
 		<key>icon</key>
-		<string>people_caoying</string>
+		<string>movie_agzz</string>
 		<key>title</key>
-		<string>演员、主持人</string>
+		<string>生活就像一盒巧克力....</string>
 		<key>options</key>
 		<array>
 			<string>林</string>
-			<string>曹</string>
+			<string>阿</string>
 			<string>玛</string>
 			<string>泽</string>
-			<string>黄</string>
+			<string>正</string>
 			<string>井</string>
 			<string>颖</string>
-			<string>黄</string>
+			<string>甘</string>
 			<string>飞</string>
 			<string>渤</string>
 			<string>鸿</string>
@@ -91,7 +91,7 @@
 			<string>林</string>
 			<string>空</string>
 			<string>苍</string>
-			<string>依</string>
+			<string>传</string>
 			<string>亚</string>
 			<string>蔡</string>
 			<string>晨</string>
@@ -100,14 +100,14 @@
 	</dict>
 	<dict>
 		<key>answer</key>
-		<string>陈赫</string>
+		<string>霸王别姬</string>
 		<key>icon</key>
-		<string>people_zengxiaoxian</string>
+		<string>movie_bwbj</string>
 		<key>title</key>
-		<string>《爱情公寓》主角</string>
+		<string>不疯魔，不成活。</string>
 		<key>options</key>
 		<array>
-			<string>曾</string>
+			<string>姬</string>
 			<string>丹</string>
 			<string>飞</string>
 			<string>吕</string>
@@ -115,19 +115,19 @@
 			<string>贤</string>
 			<string>黄</string>
 			<string>小</string>
-			<string>鸿</string>
+			<string>霸</string>
 			<string>古</string>
 			<string>子</string>
 			<string>曾</string>
 			<string>天</string>
 			<string>赫</string>
-			<string>乔</string>
+			<string>别</string>
 			<string>陈</string>
 			<string>春</string>
 			<string>宇</string>
 			<string>乐</string>
 			<string>林</string>
-			<string>哥</string>
+			<string>王</string>
 		</array>
 	</dict>
 	<dict>
@@ -164,30 +164,30 @@
 	</dict>
 	<dict>
 		<key>answer</key>
-		<string>林俊杰</string>
+		<string>海上钢琴师</string>
 		<key>icon</key>
-		<string>people_linjunjie</string>
+		<string>movie_hsgqs</string>
 		<key>title</key>
-		<string>著名歌手</string>
+		<string>一个天才的传奇一生</string>
 		<key>options</key>
 		<array>
 			<string>宝</string>
 			<string>炫</string>
 			<string>杰</string>
-			<string>岳</string>
+			<string>上</string>
 			<string>伦</string>
 			<string>志</string>
-			<string>俊</string>
+			<string>海</string>
 			<string>震</string>
 			<string>汪</string>
-			<string>张</string>
+			<string>师</string>
 			<string>沙</string>
 			<string>庾</string>
 			<string>澄</string>
-			<string>亮</string>
+			<string>钢</string>
 			<string>周</string>
 			<string>庆</string>
-			<string>城</string>
+			<string>琴</string>
 			<string>林</string>
 			<string>杰</string>
 			<string>林</string>
@@ -196,63 +196,63 @@
 	</dict>
 	<dict>
 		<key>answer</key>
-		<string>谭咏麟</string>
+		<string>荒野猎人</string>
 		<key>icon</key>
-		<string>people_tanyonglin</string>
+		<string>movie_hylr</string>
 		<key>title</key>
-		<string>香港演员、歌手</string>
+		<string>小李子的获奖作品</string>
 		<key>options</key>
 		<array>
 			<string>栋</string>
-			<string>林</string>
+			<string>荒</string>
 			<string>杰</string>
 			<string>汪</string>
 			<string>张</string>
 			<string>炫</string>
-			<string>麟</string>
+			<string>野</string>
 			<string>咏</string>
 			<string>校</string>
 			<string>东</string>
 			<string>张</string>
 			<string>震</string>
-			<string>城</string>
+			<string>人</string>
 			<string>志</string>
 			<string>伦</string>
 			<string>谭</string>
 			<string>长</string>
 			<string>亮</string>
 			<string>岳</string>
-			<string>梁</string>
+			<string>猎</string>
 			<string>周</string>
 		</array>
 	</dict>
 	<dict>
 		<key>answer</key>
-		<string>刘德华</string>
+		<string>美丽人生</string>
 		<key>icon</key>
-		<string>people_liudehua</string>
+		<string>movie_mlrs</string>
 		<key>title</key>
-		<string>香港演员、歌手</string>
+		<string>这是父亲所作的牺牲，这是父亲赐我的恩典。</string>
 		<key>options</key>
 		<array>
 			<string>德</string>
 			<string>荣</string>
-			<string>林</string>
+			<string>人</string>
 			<string>国</string>
 			<string>友</string>
 			<string>杰</string>
 			<string>华</string>
 			<string>刘</string>
-			<string>张</string>
+			<string>美</string>
 			<string>学</string>
 			<string>志</string>
 			<string>伦</string>
 			<string>咏</string>
-			<string>炫</string>
+			<string>生</string>
 			<string>富</string>
 			<string>郭</string>
 			<string>城</string>
-			<string>麟</string>
+			<string>丽</string>
 			<string>谭</string>
 			<string>周</string>
 			<string>张</string>
@@ -260,33 +260,33 @@
 	</dict>
 	<dict>
 		<key>answer</key>
-		<string>王心凌</string>
+		<string>三傻大闹好莱坞</string>
 		<key>icon</key>
-		<string>people_wangxinling</string>
+		<string>movie_ssdnhlw</string>
 		<key>title</key>
-		<string>台湾演员、歌手</string>
+		<string>印度著名喜剧电影</string>
 		<key>options</key>
 		<array>
 			<string>少</string>
 			<string>王</string>
-			<string>凌</string>
+			<string>三</string>
 			<string>依</string>
 			<string>泽</string>
-			<string>亚</string>
+			<string>好</string>
 			<string>岛</string>
 			<string>林</string>
-			<string>依</string>
+			<string>大</string>
 			<string>松</string>
 			<string>心</string>
 			<string>枫</string>
 			<string>利</string>
-			<string>小</string>
+			<string>傻</string>
 			<string>蔡</string>
-			<string>曹</string>
-			<string>颖</string>
+			<string>坞</string>
+			<string>闹</string>
 			<string>林</string>
 			<string>玛</string>
-			<string>晨</string>
+			<string>莱</string>
 			<string>芬</string>
 		</array>
 	</dict>
@@ -320,6 +320,134 @@
 			<string>惑</string>
 			<string>古</string>
 			<string>仔</string>
+		</array>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>泰坦尼克号</string>
+		<key>icon</key>
+		<string>movie_ttnkh</string>
+		<key>title</key>
+		<string>You jump,I jump!</string>
+		<key>options</key>
+		<array>
+			<string>泰</string>
+			<string>坦</string>
+			<string>小</string>
+			<string>熊</string>
+			<string>维</string>
+			<string>尼</string>
+			<string>姐</string>
+			<string>可</string>
+			<string>接</string>
+			<string>好</string>
+			<string>的</string>
+			<string>人</string>
+			<string>王</string>
+			<string>霸</string>
+			<string>号</string>
+			<string>克</string>
+			<string>山</string>
+			<string>副</string>
+			<string>亲</string>
+			<string>特</string>
+			<string>上</string>
+		</array>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>肖生克的救赎</string>
+		<key>icon</key>
+		<string>movie_xskdjs</string>
+		<key>title</key>
+		<string>恐惧让你沦为囚犯，希望让你重获自由。</string>
+		<key>options</key>
+		<array>
+			<string>饿</string>
+			<string>副</string>
+			<string>特</string>
+			<string>生</string>
+			<string>消</string>
+			<string>肖</string>
+			<string>尼</string>
+			<string>克</string>
+			<string>的</string>
+			<string>自</string>
+			<string>有</string>
+			<string>救</string>
+			<string>求</string>
+			<string>赎</string>
+			<string>再</string>
+			<string>小</string>
+			<string>天</string>
+			<string>第</string>
+			<string>选</string>
+			<string>片</string>
+			<string>傻</string>
+		</array>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>这个杀手不太冷</string>
+		<key>icon</key>
+		<string>movie_zgssbtl</string>
+		<key>title</key>
+		<string>萝莉与大叔的故事</string>
+		<key>options</key>
+		<array>
+			<string>落</string>
+			<string>太</string>
+			<string>冷</string>
+			<string>师</string>
+			<string>不</string>
+			<string>啥</string>
+			<string>杀</string>
+			<string>手</string>
+			<string>老</string>
+			<string>个</string>
+			<string>别</string>
+			<string>这</string>
+			<string>那</string>
+			<string>或</string>
+			<string>需</string>
+			<string>要</string>
+			<string>则</string>
+			<string>克</string>
+			<string>时</string>
+			<string>哦</string>
+			<string>我</string>
+		</array>
+	</dict>
+	<dict>
+		<key>answer</key>
+		<string>忠犬八公的故事</string>
+		<key>icon</key>
+		<string>movie_zqbgdgs</string>
+		<key>title</key>
+		<string>这真是漫长的一生啊，八公。</string>
+		<key>options</key>
+		<array>
+			<string>公</string>
+			<string>婆</string>
+			<string>犬</string>
+			<string>猫</string>
+			<string>忠</string>
+			<string>义</string>
+			<string>八</string>
+			<string>阿</string>
+			<string>的</string>
+			<string>事</string>
+			<string>故</string>
+			<string>完</string>
+			<string>权</string>
+			<string>丽</string>
+			<string>向</string>
+			<string>增</string>
+			<string>利</string>
+			<string>借</string>
+			<string>赎</string>
+			<string>号</string>
+			<string>坏</string>
 		</array>
 	</dict>
 </array>

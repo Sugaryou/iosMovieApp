@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		7C2FA5831C1D86B0009714E7 /* questions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7C2FA5821C1D86B0009714E7 /* questions.plist */; };
 		7C2FA5861C1D8830009714E7 /* GuessQuestionInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2FA5851C1D8830009714E7 /* GuessQuestionInfo.m */; };
+		7C2FA58A1C1DA65B009714E7 /* CompleteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C2FA5881C1DA65B009714E7 /* CompleteViewController.m */; };
+		7C2FA58B1C1DA65B009714E7 /* CompleteViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C2FA5891C1DA65B009714E7 /* CompleteViewController.xib */; };
 		7C47314E1C15C70500A964A0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C47314D1C15C70500A964A0 /* main.m */; };
 		7C4731511C15C70500A964A0 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4731501C15C70500A964A0 /* AppDelegate.m */; };
 		7C4731541C15C70500A964A0 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C4731531C15C70500A964A0 /* ViewController.m */; };
@@ -32,6 +34,9 @@
 		7C2FA5821C1D86B0009714E7 /* questions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = questions.plist; sourceTree = SOURCE_ROOT; };
 		7C2FA5841C1D8830009714E7 /* GuessQuestionInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GuessQuestionInfo.h; sourceTree = "<group>"; };
 		7C2FA5851C1D8830009714E7 /* GuessQuestionInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GuessQuestionInfo.m; sourceTree = "<group>"; };
+		7C2FA5871C1DA65B009714E7 /* CompleteViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompleteViewController.h; sourceTree = "<group>"; };
+		7C2FA5881C1DA65B009714E7 /* CompleteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompleteViewController.m; sourceTree = "<group>"; };
+		7C2FA5891C1DA65B009714E7 /* CompleteViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CompleteViewController.xib; sourceTree = "<group>"; };
 		7C4731481C15C70500A964A0 /* Guessimage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Guessimage.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C47314C1C15C70500A964A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C47314D1C15C70500A964A0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -86,16 +91,19 @@
 		7C47314A1C15C70500A964A0 /* Guessimage */ = {
 			isa = PBXGroup;
 			children = (
+				7C2FA5871C1DA65B009714E7 /* CompleteViewController.h */,
+				7C2FA5881C1DA65B009714E7 /* CompleteViewController.m */,
+				7C2FA5891C1DA65B009714E7 /* CompleteViewController.xib */,
 				7C47314F1C15C70500A964A0 /* AppDelegate.h */,
 				7C4731501C15C70500A964A0 /* AppDelegate.m */,
 				7C4731521C15C70500A964A0 /* ViewController.h */,
 				7C4731531C15C70500A964A0 /* ViewController.m */,
+				7C2FA5841C1D8830009714E7 /* GuessQuestionInfo.h */,
+				7C2FA5851C1D8830009714E7 /* GuessQuestionInfo.m */,
 				7C4731551C15C70500A964A0 /* Main.storyboard */,
 				7C4731581C15C70500A964A0 /* Images.xcassets */,
 				7C47315A1C15C70500A964A0 /* LaunchScreen.xib */,
 				7C47314B1C15C70500A964A0 /* Supporting Files */,
-				7C2FA5841C1D8830009714E7 /* GuessQuestionInfo.h */,
-				7C2FA5851C1D8830009714E7 /* GuessQuestionInfo.m */,
 			);
 			path = Guessimage;
 			sourceTree = "<group>";
@@ -207,6 +215,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7C2FA58B1C1DA65B009714E7 /* CompleteViewController.xib in Resources */,
 				7C2FA5831C1D86B0009714E7 /* questions.plist in Resources */,
 				7C4731571C15C70500A964A0 /* Main.storyboard in Resources */,
 				7C47315C1C15C70500A964A0 /* LaunchScreen.xib in Resources */,
@@ -231,6 +240,7 @@
 				7C4731541C15C70500A964A0 /* ViewController.m in Sources */,
 				7C2FA5861C1D8830009714E7 /* GuessQuestionInfo.m in Sources */,
 				7C4731511C15C70500A964A0 /* AppDelegate.m in Sources */,
+				7C2FA58A1C1DA65B009714E7 /* CompleteViewController.m in Sources */,
 				7C47314E1C15C70500A964A0 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
